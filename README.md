@@ -1,2 +1,2 @@
 # hello-world
-Brief description
+A slightly less brief description
